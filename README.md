@@ -65,7 +65,11 @@ You can start the training process by running the train.py script:
 ## Results:
 
 <p align="center">
-  <img src="output/t-SNE.png" alt="Undistorted" width="600"/>
+  <img src="output/loss_output" alt="Undistorted" width="600"/> 
+</p>
+
+<p align="center">
+  <img src="output/Acc_output" alt="Undistorted" width="600"/> 
 </p>
 
 
