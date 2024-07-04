@@ -61,7 +61,6 @@ You can start the training process by running the train.py script:
 
 ```
 python train.py
-
 ```
 
 
