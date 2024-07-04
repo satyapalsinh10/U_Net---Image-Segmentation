@@ -59,8 +59,12 @@ data/
 The training script includes hyperparameters and paths defined at the top. Adjust them as necessary.
 You can start the training process by running the train.py script:
 
-``` python train.py
 ```
+python train.py
+
+```
+
+
 
 ## Results:
 
