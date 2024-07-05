@@ -1,4 +1,4 @@
-# U_Net from scratch for Image-Segmentation
+# U_Net from scratch for CARNAVA Image-Segmentation
 
 This repository contains a PyTorch implementation of the U-Net architecture from scratch for image segmentation, along with the necessary dataset handling and utility functions.
 
