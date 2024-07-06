@@ -70,11 +70,11 @@ python train.py
 
 
 <p align="center">
-  <img src="output/Acc_output.png" alt="Undistorted" width="600"/> 
+  <img src="" alt="Undistorted" width="600"/> 
 </p>
 
 <p align="center">
-  <img src="output/loss_output.png" alt="Undistorted" width="600"/> 
+  <img src="" alt="Undistorted" width="600"/> 
 </p>
 
 
